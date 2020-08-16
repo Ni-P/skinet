@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="skinet.db" uuid="8bd11091-d7d4-46f3-bfdf-a03763f22dc7">
+    <data-source source="LOCAL" name="skinet.db" uuid="23c20281-23dd-4211-9817-fd71dcd77303">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
